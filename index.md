@@ -1,0 +1,82 @@
+---
+title: Simulating Language
+description: Academic year 2024/2025
+---
+
+*N.B. If you are auditing this course and have not yet been added to the Simulating Language Team, please get in touch with Simon Kirby on teams and ask to be added to the Team and assigned a lab group ASAP. Thanks!*
+
+This is the webpage for the Honours/MSc course Simulating Language, running in academic year 2024/2025. We will add links to materials (readings, videos, code) to this page; you will need to use Learn for electronic submission of your assessed work, and to keep an eye out for any course announcements.
+
+
+## Course summary
+
+In this course we are going to be using simulation models to study language. People use various types of models in linguistics for a number of purposes; in this course we are going to focus using models to study how processes of learning, communication and evolution shape linguistic systems, and we'll primarily be using agent-based Bayesian models (don't worry, we'll explain what that means!).
+
+This is a practical course: you'll be running and tinkering with code for computational models written in python. You don't need to be programmer to take the course - no programming knowledge is assumed, and we are doing everything in the simplest way we can think of, building from the ground up. But you will be doing stuff with code, so you have to be prepared to give it a go, dive in, and try stuff out. Don't worry, we'll help you figure it out.
+
+## The teaching team
+
+[Simon Kirby](https://simonkirby.net/) is the lecturer for this course. The best way to get in touch with me is after a lecture, or by messaging on Teams. Please don't email. In addition, Claire Graf, Yajun Liu, and Ponrawee Prasertsom are the lab tutors on the course.
+
+## Structure of the course
+
+The course is based around a series of ten lectures, which take place one per week. Each lecture is followed by a programming practical, which you attempt in your own time, and get help with in a drop-in lab session. Each lecture may have readings associated with it.
+
+### Readings
+
+The week-by-week reading content is at the bottom of this page. The readings consist of our notes plus a mix of journal papers and book chapters.
+
+For some of the lectures the reading is flagged up as being **pre-reading**, i.e. we will assume you have done this preparatory work prior to the lecture and will design the lecture accordingly (i.e. we might refer to stuff in the preparatory materials or ask you questions about it).
+
+You should always complete the reading materials and attend/watch the lecture before attempting the programming practical or attending the drop-in lab classes - the practicals involve playing with models that implement the ideas covered in the readings and lecture recordings, so will make a lot more sense when you have that context.
+
+
+### Lectures
+
+- Lectures are **Fridays 15.10 - 16:00** in F.21, 7 George Square
+
+Lectures start in week 1, i.e. the first lecture is Friday 17th January. Lectures will be recorded and appear on Learn.
+
+### Practicals and drop-in labs
+
+- Labs are in 4.02, Appleton tower (Mondays, Wednesdays and Thursdays).
+
+You can attempt the programming practical on your own, but we provide the drop-in labs at set times each week where you can come and get our help to figure out problems. You should come to the drop-in labs if you need help with a specific problem, but you are also welcome to just turn up in drop-in labs to hang out and work through things on your own with us in the background - some people find that having set times helps them focus.
+
+You will be assigned a lab group that will take place at one of the following times starting in week 2:
+- Mondays 11:10 - 13:00 
+- Wednesdays 13:10 - 15:00 
+- Thursdays 13:10 - 15:00 
+
+
+### Chat on Teams
+
+In addition to asking questions in lectures and drop-in labs, we will set up channels on Teams for you to ask questions. If you have a question that you can't ask live, Teams (rather than email) is our preferred way for you to get in touch.
+
+## Assessment
+
+The two assignments involve a mix of practical work and written sections and have the following deadlines:
+
+- 6th March at noon (released 25th February, feedback returned 27th March)
+- 24th April at noon (released 30th March, feedback returned 15th May)
+
+*IMPORTANT* we will only answer questions about the assignments for 4 days following the release of the assignment, and questions *must* be posted on the Teams channel so that everyone can see the answers! No further questions about the assignments will be answered after this. We have struggled with getting this right over the years, with some years people asking questions after other people have already submitted, which feels unfair, and other years not answering questions at all, which also felt unfair. I hope this year we've got the balance right!
+
+For UG students, each assessment is weighted equally for the final marks. For PG students, the first assessment is worth 30% and the second is worth 70%.
+
+## Course Materials
+
+Dates for lectures and labs shown in brackets. **Please note that we will only post the answers for each lab the week following the lab.** So please do have a go yourself, and come along to the lab sessions if you get stuck! 
+
+N.B. The numbers below indicate the order of the sections of the course, but it's possible that lectures may move. Note that there are 11 weeks in the teaching semester to fit 10 lectures into, which allows a bit of flexibility.
+
+### 1. Introduction
+
+- Pre-lecture reading: [Introduction to modelling](simlang_reading_1.md)
+- [Lecture slides](lecture_slides/lecture1.pdf) (Jan 17)
+- Programming practical: [Introduction to Python](simlang_lab_1.md) (Jan 20, 22, 23)
+
+
+## Re-use
+
+This page was written by Simon Kirby, based on https://centre-for-language-evolution.github.io/simlang2021/, written by Kenny Smith and Simon Kirby. All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
