@@ -16,10 +16,12 @@ To do that:
 4. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").
     ![noteable screenshot](images/lab1_noteable_screenshot.png)
 5. Once you've started and connected/reconnected to the server you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating.
-6. There is a button labelled `+GitRepo`. Click on that and enter this web address for the Git Repository URL: `https://github.com/smkirby/simlang2024-25`. You can leave all the other fields at their defaults or blank.
-7. Click on `Clone`. This will download all the latest versions of the notebook files onto your noteable account in a folder called `simlang2024-25`
+6. There is a menu labelled `Git`. Click on that and choose `Clone a Repository` enter this web address for the Git Repository URL: `https://github.com/smkirby/simlang2024-25`. You can leave all the other fields at their defaults or blank.
+7. Click on `Clone`. This will download all the latest versions of the notebook files onto your noteable account in a folder called `simlang2024-25`. You can navigate to this with the file browser on the left (with the topmost button).
 
-You should only need to do this downloading of the notebook files once, unless I update any of the files during the semester, in which case I'll tell you. (Note that if you're reading this in advance of the first lab then probably a lot of the files won't be there yet!) However, if you mess up any local copy of a notebook and want to return it back to the original, just delete or rename your notebook and then go through steps 6 and 7 again to restore the original versions.
+Now that you have a folder of the course files, you're good to go. At the start of the course, the answer files aren't available and these will be made available each week. Because of this you may want to refresh the list of files. To do this, you can use the `Git` menu and select `Pull from Remote`. If you make changes to a file and want to go back to the original, then you can just delete or rename it and then use `Pull from Remote (Force)`, which overrules any changes you've made to the original files.
+
+
 
 # Programming tasks for today's lab
 
