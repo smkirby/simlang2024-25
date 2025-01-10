@@ -76,6 +76,71 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture1.pdf) (Jan 17)
 - Programming practical: [Introduction to Python](simlang_lab_1.md) (Jan 20, 22, 23)
 
+### 2. Concept learning
+
+- Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
+- [Lecture slides](lecture_slides/lecture2.pdf) (Jan 24)
+- Programming practical: [Word learning](https://github.com/smkirby/simlang2024-25/blob/main/lab2.ipynb) (Jan 27, 29, 30)
+
+### 3. Frequency learning and regularisation
+
+- No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
+- [Lecture slides](lecture_slides/lecture3.pdf) (Jan 31)
+- Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2024-25/blob/main/lab3.ipynb) (Feb 3, 5, 6)
+
+### 4. Cultural evolution by iterated learning
+
+- [Lecture slides](lecture_slides/lecture4.pdf) (Feb 7)
+  - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
+  - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
+  - [Code for generating these videos](https://github.com/smkirby/simlang2024-25/blob/gh-pages/lecture_slides/lecture4_videos/lecture4_figures.ipynb)
+- Post-lecture reading (read this directly after the lecture, not before): [Bayesian iterated learning](simlang_reading_4.md)
+- Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2024-25/blob/main/lab4.ipynb) (Feb 10, 12, 13)
+- *Logarithms for the concerned*: a supplementary walkthrough in three parts (by Matt Spike)
+  - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
+
+### 5. Communication and the RSA model
+
+- Reading: [The Rational Speech Act model](simlang_reading_5.md)
+- [Lecture slides](lecture_slides/lecture5.pdf) (Feb 14)
+- Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2024-25/blob/main/lab5.ipynb) (Feb 24, 26, 27)
+
+### 6. Compositionality: the origins of structure
+
+- Reading: [The evolution of compositionality](simlang_reading_6.md)
+- [Lecture slides](lecture_slides/lecture6.pdf) (Feb 28)
+- Programming practical: [Compositionality](https://github.com/smkirby/simlang2024-25/blob/main/lab6.ipynb) (Mar 3, 5, 6)
+
+### 7. Hierarchical models and learning the prior
+
+- Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
+- [Lecture slides](lecture_slides/lecture7.pdf) (Mar 7)
+- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2024-25/blob/main/lab7.ipynb) (Mar 10, 12, 13)
+
+
+### 8. Innateness and culture
+
+- Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
+- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 14)
+- Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2024-25/blob/main/lab8.ipynb) (Mar 17, 19, 20)
+
+
+### 9. Biological and cultural evolution together
+
+- Reading: [Gene-culture co-evolution](simlang_reading_9.md)
+- [Lecture slides](lecture_slides/lecture9.pdf) (Mar 21)
+- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2024-25/blob/main/lab9.ipynb) (Mar 24, 26, 27)
+
+
+
+### 10. This view of language
+
+- Reading: [Overview of this view of language](simlang_reading_10.md)
+- [Lecture slides](lecture_slides/lecture10.pdf) (Mar 28)
+
+
+
+
 
 ## Re-use
 
