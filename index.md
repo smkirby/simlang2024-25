@@ -99,44 +99,48 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts (by Matt Spike)
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
 
+### Catch up week (after reading week)
+
+- There won't be a lecture on Feb 14th, but we will have labs on Feb 24, 26, 27 for people to catch up on anything they are struggling with!
+
 ### 5. Communication and the RSA model
 
 - Reading: [The Rational Speech Act model](simlang_reading_5.md)
-- [Lecture slides](lecture_slides/lecture5.pdf) (Feb 14)
-- Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2024-25/blob/main/lab5.ipynb) (Feb 24, 26, 27)
+- [Lecture slides](lecture_slides/lecture5.pdf) (Feb 28)
+- Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2024-25/blob/main/lab5.ipynb) (Mar 3, 5, 6)
 
 ### 6. Compositionality: the origins of structure
 
 - Reading: [The evolution of compositionality](simlang_reading_6.md)
-- [Lecture slides](lecture_slides/lecture6.pdf) (Feb 28)
-- Programming practical: [Compositionality](https://github.com/smkirby/simlang2024-25/blob/main/lab6.ipynb) (Mar 3, 5, 6)
+- [Lecture slides](lecture_slides/lecture6.pdf) (Mar 7)
+- Programming practical: [Compositionality](https://github.com/smkirby/simlang2024-25/blob/main/lab6.ipynb) (Mar 10, 12, 13)
 
 ### 7. Hierarchical models and learning the prior
 
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
-- [Lecture slides](lecture_slides/lecture7.pdf) (Mar 7)
-- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2024-25/blob/main/lab7.ipynb) (Mar 10, 12, 13)
+- [Lecture slides](lecture_slides/lecture7.pdf) (Mar 14)
+- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2024-25/blob/main/lab7.ipynb) (Mar 17, 19, 20)
 
 
 ### 8. Innateness and culture
 
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
-- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 14)
-- Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2024-25/blob/main/lab8.ipynb) (Mar 17, 19, 20)
+- [Lecture slides](lecture_slides/lecture8.pdf) (Mar 21)
+- Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2024-25/blob/main/lab8.ipynb) (Mar 24, 26, 27)
 
 
 ### 9. Biological and cultural evolution together
 
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
-- [Lecture slides](lecture_slides/lecture9.pdf) (Mar 21)
-- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2024-25/blob/main/lab9.ipynb) (Mar 24, 26, 27)
+- [Lecture slides](lecture_slides/lecture9.pdf) (Mar 28)
+- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2024-25/blob/main/lab9.ipynb) (Mar 31, Apr 2, 3)
 
 
 
 ### 10. This view of language
 
 - Reading: [Overview of this view of language](simlang_reading_10.md)
-- [Lecture slides](lecture_slides/lecture10.pdf) (Mar 28)
+- [Lecture slides](lecture_slides/lecture10.pdf) (Apr 4)
 
 
 
