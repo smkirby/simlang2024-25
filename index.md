@@ -99,7 +99,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts (by Matt Spike)
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
 
-### Catch up week (after reading week)
+### Catch up labs (after reading week)
 
 - There won't be a lecture on Feb 14th, but we will have labs on Feb 24, 26, 27 for people to catch up on anything they are struggling with!
 
