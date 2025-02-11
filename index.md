@@ -57,7 +57,7 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 
 The two assignments involve a mix of practical work and written sections and have the following deadlines:
 
-- 17th March at noon (released 8th March, feedback returned 7th April)
+- 17th March at noon (released 8th March, feedback returned 7th April
 - 24th April at noon (released 30th March, feedback returned 15th May)
 
 *IMPORTANT* we will only answer questions about the assignments for 4 days following the release of the assignment, and questions *must* be posted on the Teams channel so that everyone can see the answers! No further questions about the assignments will be answered after this. We have struggled with getting this right over the years, with some years people asking questions after other people have already submitted, which feels unfair, and other years not answering questions at all, which also felt unfair. I hope this year we've got the balance right!
@@ -86,7 +86,9 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/lecture3.pdf) (Feb 7)
-- Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2024-25/blob/main/lab3.ipynb) (FFeb 10, 12, 13)
+- Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2024-25/blob/main/lab3.ipynb) (Feb 10, 12, 13)
+- Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2023-24/blob/main/lab3_answered.ipynb)
+- [Frequency learning live coding video](https://media.ed.ac.uk/media/lab3_live_coding/1_b8a9ctqe)
 
 
 ### Catch up labs (after reading week)
@@ -136,7 +138,6 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
 - [Lecture slides](lecture_slides/lecture9.pdf) (Apr 4)
 - Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2024-25/blob/main/lab9.ipynb) (In person labs cancelled due to storm in week 2)
-
 
 
 ### 10. This view of language
