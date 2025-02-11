@@ -81,14 +81,14 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/lecture2.pdf) (Jan 31)
 - Programming practical: [Word learning](https://github.com/smkirby/simlang2024-25/blob/main/lab2.ipynb) (Feb 3, 5, 6)
+- Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2023-24/blob/main/lab2_answered.ipynb)
+- [Concept learning live coding video](https://media.ed.ac.uk/media/lab2_live_coding/1_d6g4eerh)
 
 ### 3. Frequency learning and regularisation
 
 - No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/lecture3.pdf) (Feb 7)
 - Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2024-25/blob/main/lab3.ipynb) (Feb 10, 12, 13)
-- Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2023-24/blob/main/lab3_answered.ipynb)
-- [Frequency learning live coding video](https://media.ed.ac.uk/media/lab3_live_coding/1_b8a9ctqe)
 
 
 ### Catch up labs (after reading week)
