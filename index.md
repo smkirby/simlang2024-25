@@ -86,7 +86,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 ### 3. Frequency learning and regularisation
 
-- No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
+- No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://escholarship.org/content/qt8b67v4q2/qt8b67v4q2_noSplash_c575822e1e460119556d379406f0f24e.pdf), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/lecture3.pdf) (Feb 7)
 - Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2024-25/blob/main/lab3.ipynb) (Feb 10, 12, 13)
 - Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2024-25/blob/main/lab3_answered.ipynb)
