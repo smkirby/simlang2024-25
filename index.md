@@ -107,7 +107,8 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2024-25/blob/main/lab4.ipynb) (Mar 3, 5, 6)
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts (by Matt Spike)
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
-
+- Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2024-25/blob/main/lab4_answered.ipynb)
+- [Cultural evolution live coding video](https://media.ed.ac.uk/media/lab4_live_coding/1_z9c6q988)
 
 ### 5. Communication and the RSA model
 
