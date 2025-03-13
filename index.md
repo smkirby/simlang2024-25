@@ -115,6 +115,8 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [The Rational Speech Act model](simlang_reading_5.md)
 - [Lecture slides](lecture_slides/lecture5.pdf) (Mar 7)
 - Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2024-25/blob/main/lab5.ipynb) (Mar 10, 12, 13)
+- Answers to Practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2024-25/blob/main/lab5_answered.ipynb)
+- [RSA live coding video](https://media.ed.ac.uk/media/lab5_live_coding/1_eiuk0jve)
 
 ### 6. Compositionality: the origins of structure
 
