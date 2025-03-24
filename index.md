@@ -123,6 +123,9 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [The evolution of compositionality](simlang_reading_6.md)
 - [Lecture slides](lecture_slides/lecture6.pdf) (Mar 14)
 - Programming practical: [Compositionality](https://github.com/smkirby/simlang2024-25/blob/main/lab6.ipynb) (Mar 17, 19, 20)
+- Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2024-25/blob/main/lab6_answered.ipynb)
+- [Compositionality live coding video](https://media.ed.ac.uk/media/lab6_live_coding/1_rtf3yusv)
+
 
 ### 7. Hierarchical models and learning the prior
 
