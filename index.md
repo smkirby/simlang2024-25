@@ -132,7 +132,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
 - [Lecture slides](lecture_slides/lecture7.pdf) (Mar 21)
 - Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2024-25/blob/main/lab7.ipynb) (Mar 24, 26, 27)
-
+- Answers to Practical: [Hierarchical learning](https://github.com/smkirby/simlang2024-25/blob/main/lab7_answered.ipynb)
 
 ### 8. Innateness and culture
 
